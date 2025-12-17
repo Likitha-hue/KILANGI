@@ -22,7 +22,7 @@ images/
 
 
 ##  Live Demo
-[]
+[https://kilangi-ecommerce.netlify.app/]
 
 ##  Notes
 - No external frameworks were used
